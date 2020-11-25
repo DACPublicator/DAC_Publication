@@ -10,9 +10,8 @@ pip install -r requirements.txt
 
 ## Structure of the repository:
 
-Simulation: apply DAC on a generated dataset
+Simulation: Regression and Classification Experiments on simulated dataset. Corresponds with the results in part 5. of the publication.
 
-Real_Data: apply DAC on a real dataset we provide or on your own dataset
 
 
 ## About the algorithm
