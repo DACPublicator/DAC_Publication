@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Structure of the repository:
 
-Simulation: Regression and Classification Experiments on simulated dataset. Supports the results in part 5. of the publication.
+Simulation: Regression and Classification Experiments on simulated dataset. Supports the results of Section 5.
 
 
 
