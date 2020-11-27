@@ -15,7 +15,6 @@ Simulation: Regression and Classification Experiments on simulated dataset. Supp
 
 
 ## About the algorithm
-We propose a practical method—referred to as Data Aggregation with Clustering (DAC)—that balances the tradeoff between data aggregation and model flexibility. DAC allows us to predict demand, while optimally identifying the features that should be estimated at the (i) item, (ii) cluster, and (iii) aggregated levels. We show that the DAC algorithm yields a consistent estimate along with improved asymptotic properties relative to the decentralized method that estimates a different model for each item. Using both simulated and real data, we illustrate DAC’s improvement in prediction accuracy relative to common benchmarks. Interestingly, the DAC algorithm not only has theoretical and practical advantages, it also helps retailers discover meaningful managerial insights. See full details in the [article]() 
-
+We propose a practical method referred to as data aggregation with clustering (DAC), which balances the tradeoff between data aggregation and model flexibility. DAC allows us to predict demand while optimally identifying the features that should be estimated at the (i) item, (ii) cluster, and (iii) aggregate levels. We show that the DAC algorithm yields a consistent estimate, along with improved asymptotic properties relative to the decentralized method, which estimates a different model for each item. Using simulated data, we illustrate DAC's improvement in prediction accuracy relative to several common benchmarks.
 
 
